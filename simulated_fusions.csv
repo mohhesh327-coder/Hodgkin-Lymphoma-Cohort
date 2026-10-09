@@ -1,0 +1,16 @@
+Patient,Fusion_Name,Junction_Reads,Spanning_Frags,Genes_5p,Genes_3p,Relevance
+LH200003,CIITA-CD274,45,120,CIITA,CD274,HL hallmark fusion (9p24.1 / MHC2 TF)
+LH200003,NPM1-ALK,12,35,NPM1,ALK,"ALCL fusion, ALK inhibitor target"
+LH210010,NOTCH1-MIR4673,28,80,NOTCH1,MIR4673,Observed in cohort multi-gene reads
+LH210010,REL-LINC01185,15,42,REL,LINC01185,Observed in cohort (NF-kB activation)
+BR200029,CIITA-CD274,32,95,CIITA,CD274,HL hallmark fusion (9p24.1 / MHC2 TF)
+C212118,BCL6-IGH,18,55,BCL6,IGH,Lymphoma B-cell TF rearrangement
+C212118,EP300-CREBBP,8,22,EP300,CREBBP,Histone acetyltransferase fusion
+BR190005,FAS-FAS-AS1,22,68,FAS,FAS-AS1,Observed in cohort (apoptosis)
+BR200021,NOTCH1-MIR4673,35,102,NOTCH1,MIR4673,Observed in cohort multi-gene reads
+BR200021,BCL10-IGH,14,38,BCL10,IGH,NF-kB activating fusion
+BR190010,CIITA-CD274,6,18,CIITA,CD274,HL hallmark fusion (9p24.1 / MHC2 TF)
+C222201,BCL10-IGH,25,72,BCL10,IGH,NF-kB activating fusion
+C222201,REL-LINC01185,20,58,REL,LINC01185,Observed in cohort (NF-kB activation)
+C222201,EP300-CREBBP,10,30,EP300,CREBBP,Histone acetyltransferase fusion
+LH230118,NUMA1-IL18BP,8,25,NUMA1,IL18BP,Observed in cohort
